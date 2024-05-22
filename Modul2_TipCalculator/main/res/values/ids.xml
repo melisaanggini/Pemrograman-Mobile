@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="billAmountEditText" type="id" />
+    <item name="tipPercentageButton" type="id" />
+    <item name="tipAmountTextView" type="id" />
+    <item name="totalAmountTextView" type="id" />
+</resources>
